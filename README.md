@@ -1,4 +1,6 @@
-# shortdefs This is the Logeion version of short definitions for Greek lemmata. 
+# shortdefs 
+
+This repository contains the Logeion version of short definitions for Greek lemmata. 
 It is originally based on the Perseus short definitions (www.perseus.tufts.edu)
 Note that some definitions also contain Greek (for instance, in the case of species 
 that are not securely identified, illnesses no longer identified the same way and 
