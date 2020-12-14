@@ -14,3 +14,5 @@ we import textbook definitions, which feature grammatical information such as pr
 and are more likely to prioritize frequent usage in the classical period over earliest meaning attested,
 however rarely, or 'etymologizing' meanings extracted from dictionaries. These definitions will, however, 
 show up in the morphological analysis at perseus.uchicago.edu/Greek.html.
+
+A smaller file has only short definitions for lemmata actually in use at perseus.uchicago.  
